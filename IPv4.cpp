@@ -151,3 +151,13 @@ int main()
 
     return 0;
 }
+
+/*Enter IPv4 address: 126.14.15.255
+
+Valid IPv4 Address
+First Byte: 126
+First Byte as Integer: 126
+Class: A
+Net ID: 126
+Host ID: 14.15.255
+Network Address: 126.0.0.0*/
